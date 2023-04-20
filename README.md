@@ -2,17 +2,17 @@
 
 共享规则和插件，欢迎上传分享作品！
 
->[rule 采集规则](https://gitee.com/skycaiji/rule)
+>[rule 采集规则](/skycaiji/rule)
 
->>[上传采集规则](https://gitee.com/skycaiji/rule/new/master)
+>>[上传采集规则](/skycaiji/rule/new/master)
 
->[func 函数插件](https://gitee.com/skycaiji/func)
+>[func 函数插件](/skycaiji/func)
 
->>[上传函数插件](https://gitee.com/skycaiji/func/new/master)
+>>[上传函数插件](/skycaiji/func/new/master)
 
->[cms 发布插件](https://gitee.com/skycaiji/cms)
+>[cms 发布插件](/skycaiji/cms)
 
->>[上传发布插件](https://gitee.com/skycaiji/cms/new/master)
+>>[上传发布插件](/skycaiji/cms/new/master)
 
 ### 上传说明
 
