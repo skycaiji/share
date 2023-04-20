@@ -1,37 +1,28 @@
 # 共享
 
-#### 介绍
 共享规则和插件，欢迎上传分享作品！
 
-#### 软件架构
-软件架构说明
+>[rule 采集规则](https://gitee.com/skycaiji/rule)
 
+>>[上传采集规则](https://gitee.com/skycaiji/rule/new/master)
 
-#### 安装教程
+>[func 函数插件](https://gitee.com/skycaiji/func)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+>>[上传函数插件](https://gitee.com/skycaiji/func/new/master)
 
-#### 使用说明
+>[cms 发布插件](https://gitee.com/skycaiji/cms)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+>>[上传发布插件](https://gitee.com/skycaiji/cms/new/master)
 
-#### 参与贡献
+### 上传说明
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+仅支持上传.scj后缀文件的内容（采集器中导出至本地的文件）
 
+打开上传链接，进入编辑界面，将需要上传的文件名称作为文件夹（不包含后缀），文件名使用版本号x.x代替（初始版本号1.0），例如：上传名称是“示例文件.scj”，在编辑界面的文件名中输入“文件示例/x.x”。然后右键编辑本地文件，将文本复制到内容中即可（或者您可以通过git命令提交），编辑界面如图：
 
-#### 特技
+![上传说明](upload.jpg)
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+注意：不要修改已经存在的文件！为了方便管理和存档，您仅能上传新的文件（任何修改行为都不会通过），以版本号来区分文件且版本号勿跨度太大，小修改在次版本号x.**X**上递增，大修改在主版本号**X**.x上递增
+
+### 请勿上传违反法律法规的内容
+
