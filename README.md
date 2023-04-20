@@ -2,7 +2,7 @@
 
 共享规则和插件，欢迎上传分享作品！
 
->[rule 采集规则](/skycaiji/rule)
+>[rule 采集规则](/../../../skycaiji/rule)
 
 >>[上传采集规则](/skycaiji/rule/new/master)
 
